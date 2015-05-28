@@ -24,7 +24,6 @@ protected: // create from serialization only
 	DECLARE_DYNCREATE(CTranarioView)
 
 public:
-	int vghghffghgf;
 	CCoolTabCtrl m_TabCtrl;
 	//{{AFX_DATA(CTranarioView)
 	enum{ IDD = IDD_TRANARIO_FORM };
